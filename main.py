@@ -5,7 +5,7 @@ while n:
   f = input("Find What: ")
   r = input("Replace with: ")
   new = n.replace(f,r)
-  if new == n;
+  if new == n:
      print(f"{f} not found\n")
   else:
      print("Replaced Successfully.\n")
