@@ -1,6 +1,6 @@
 #Made by Abhishek
 print("FIND AND REPLACE")
-n = input("Enter your Paragraph")
+n = input("Enter your Paragraph: ")
 while n:
   f = input("Find What: ")
   r = input("Replace with: ")
